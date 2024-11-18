@@ -1,2 +1,2 @@
 hide-file.txt.txt
-123.txt
+1234
